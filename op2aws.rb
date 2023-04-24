@@ -3,7 +3,7 @@ class Op2aws < Formula
   homepage "https://github.com/nextunit-io/op2aws"
   version "0.0.8"
   url "https://github.com/nextunit-io/op2aws/releases/download/#{version}/op2aws-darwin-amd64.zip"
-  sha256 "4f78a824558ae3420813e3a937e665eae2fac0e26b0d7b22924a078017c66ded"
+  sha256 "d687439211f496556ad435413845ebce2590c4f2b7fa7f4bee187043f63513db"
   license "MIT"
 
   def install
