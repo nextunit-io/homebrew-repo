@@ -1,4 +1,4 @@
-class optoaws < Formula
+class Op2aws < Formula
   desc "CLI Tool to use 1password for credentials to login into AWS"
   homepage "https://github.com/nextunit-io/op2aws"
   version "0.0.7"
